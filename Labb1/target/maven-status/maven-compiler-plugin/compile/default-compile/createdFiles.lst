@@ -1,0 +1,12 @@
+business\ShopService.class
+model\CartItem.class
+presentation\LoginServlet.class
+model\Cart.class
+model\Product.class
+presentation\ProductServlet.class
+data\DatabaseConnection.class
+data\UserDAO.class
+model\User.class
+presentation\CartServlet.class
+data\ProductDAO.class
+presentation\LogoutServlet.class

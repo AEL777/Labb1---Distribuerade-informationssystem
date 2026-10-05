@@ -1,0 +1,12 @@
+C:\Users\Ägare\Documents\Distribuerade informationssystem\Labb2Dis1\src\main\java\business\ShopService.java
+C:\Users\Ägare\Documents\Distribuerade informationssystem\Labb2Dis1\src\main\java\data\DatabaseConnection.java
+C:\Users\Ägare\Documents\Distribuerade informationssystem\Labb2Dis1\src\main\java\data\ProductDAO.java
+C:\Users\Ägare\Documents\Distribuerade informationssystem\Labb2Dis1\src\main\java\data\UserDAO.java
+C:\Users\Ägare\Documents\Distribuerade informationssystem\Labb2Dis1\src\main\java\model\Cart.java
+C:\Users\Ägare\Documents\Distribuerade informationssystem\Labb2Dis1\src\main\java\model\CartItem.java
+C:\Users\Ägare\Documents\Distribuerade informationssystem\Labb2Dis1\src\main\java\model\Product.java
+C:\Users\Ägare\Documents\Distribuerade informationssystem\Labb2Dis1\src\main\java\model\User.java
+C:\Users\Ägare\Documents\Distribuerade informationssystem\Labb2Dis1\src\main\java\presentation\CartServlet.java
+C:\Users\Ägare\Documents\Distribuerade informationssystem\Labb2Dis1\src\main\java\presentation\LoginServlet.java
+C:\Users\Ägare\Documents\Distribuerade informationssystem\Labb2Dis1\src\main\java\presentation\LogoutServlet.java
+C:\Users\Ägare\Documents\Distribuerade informationssystem\Labb2Dis1\src\main\java\presentation\ProductServlet.java
