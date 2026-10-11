@@ -1,0 +1,140 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #eef2f7;
+    color: #1f2937;
+    line-height: 1.5;
+}
+
+.container {
+    max-width: 900px;
+    margin: 48px auto;
+    padding: 32px;
+    background: #fff;
+    border: 1px solid #d7dde7;
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgba(31, 41, 55, 0.08);
+}
+
+h1 {
+    margin: 0 0 18px;
+    color: #111827;
+    font-size: 2rem;
+}
+
+p {
+    margin: 0 0 16px;
+}
+
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin: 18px 0 26px;
+}
+
+a {
+    color: #1d4ed8;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.form {
+    display: grid;
+    max-width: 320px;
+    gap: 10px;
+}
+
+label {
+    font-weight: 700;
+}
+
+input,
+button {
+    padding: 10px 12px;
+    font-size: 1rem;
+    border-radius: 6px;
+}
+
+input {
+    border: 1px solid #cbd5e1;
+}
+
+button {
+    cursor: pointer;
+    border: 0;
+    background: #2563eb;
+    color: #fff;
+    font-weight: 700;
+}
+
+button:hover {
+    background: #1d4ed8;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 16px;
+}
+
+th,
+td {
+    padding: 12px;
+    border-bottom: 1px solid #e5e7eb;
+    text-align: left;
+}
+
+th {
+    background: #f8fafc;
+    color: #374151;
+}
+
+tr:hover td {
+    background: #f9fafb;
+}
+
+.error {
+    padding: 10px 12px;
+    background: #fef2f2;
+    border: 1px solid #fecaca;
+    border-radius: 6px;
+    color: #b91c1c;
+}
+
+.message {
+    padding: 10px 12px;
+    background: #ecfdf5;
+    border: 1px solid #bbf7d0;
+    border-radius: 6px;
+    color: #166534;
+}
+
+.total {
+    margin-top: 18px;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+@media (max-width: 640px) {
+    .container {
+        margin: 0;
+        min-height: 100vh;
+        border: 0;
+        border-radius: 0;
+        box-shadow: none;
+    }
+
+    table {
+        font-size: 0.95rem;
+    }
+
+    th,
+    td {
+        padding: 10px 8px;
+    }
+}
